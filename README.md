@@ -49,7 +49,7 @@ _Tools & platforms_
 
 <!-- GitHub stats -->
 
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=irumvag&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" align="center"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=PAZZO123&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" align="center"/>
 
 <!-- GitHub streaks -->
 
