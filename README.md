@@ -27,7 +27,7 @@ _Frameworks & libraries_
 
 _Tools & platforms_
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&labelColor=181717) ![Vscode](https://img.shields.io/badge/Vscode-2F80ED) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&labelColor=181717) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&labelColor=181717) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&labelColor=181717) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&labelColor=181717) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&labelColor=181717) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&labelColor=181717) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&labelColor=181717) ![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?logo=gnubash&labelColor=181717) ![Vmware](https://img.shields.io/badge/Vmware-607078?logo=vmware&labelColor=181717) ![VirtualBox](https://img.shields.io/badge/Virtual_box-2F61B4?logo=virtualbox) ![Pycharm](https://img.shields.io/badge/Pycharm-000000?logo=pycharm) ![Nodejs](https://img.shields.io/badge/Nodejs-5FA04E?logo=nodedotjs&labelColor=181717)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&labelColor=181717) ![Vscode](https://img.shields.io/badge/Vscode-2F80ED)  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&labelColor=181717) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&labelColor=181717) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&labelColor=181717) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&labelColor=181717) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&labelColor=181717) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&labelColor=181717) ![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?logo=gnubash&labelColor=181717) ![Vmware](https://img.shields.io/badge/Vmware-607078?logo=vmware&labelColor=181717) ![VirtualBox](https://img.shields.io/badge/Virtual_box-2F61B4?logo=virtualbox) ![Pycharm](https://img.shields.io/badge/Pycharm-000000?logo=pycharm) ![Nodejs](https://img.shields.io/badge/Nodejs-5FA04E?logo=nodedotjs&labelColor=181717)
 
 <br />
 
@@ -69,9 +69,9 @@ _Tools & platforms_
 
 <!-- contribution graph snake animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irumvag/irumvag/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PAZZO123/PAZZO123/output/github-snake-dark.svg" />
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irumvag/irumvag/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PAZZO123/PAZZO123/output/github-snake.svg" />
 
-  <img alt="github-snake" src="https://raw.githubusercontent.com/irumvag/irumvag/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PAZZO123/PAZZO123/output/github-snake.svg" />
 </picture>
