@@ -4,9 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋🏾,;+I'm+Patrick+:+),;+BSc+Computer+Engineering;+University+of+Rwanda,;+Cybersecurity+Enthusiast•);+Software+Developer•);+" alt="/" />
 </h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/specialbrocoli?style=social)](https://github.com/PAZZO123)
-[![wakatime](https://wakatime.com/badge/user/208589f4-a926-45fc-91f5-b7089469382a.svg)](https://wakatime.com/@208589f4-a926-45fc-91f5-b7089469382a)
+[![GitHub followers](https://img.shields.io/github/followers/PAZZO123?style=social)](https://github.com/PAZZO123)
+[![wakatime](https://wakatime.com/badge/user/YOUR-REAL-ID.svg)](https://wakatime.com/@YOUR-REAL-ID)
 ![Profile views](https://komarev.com/ghpvc/?username=PAZZO123&color=blueviolet)
+
 ## ⚙ **Languages-Frameworks-Tools**
 
 <br />
