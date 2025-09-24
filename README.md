@@ -28,7 +28,11 @@ _Frameworks & libraries_
 
 <!-- Frameworks & libraries -->
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&labelColor=181717) ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-06B6D4?logo=tailwindcss&labelColor=181717) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&labelColor=181717) 
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-06B6D4?logo=tailwindcss&labelColor=181717) 
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&labelColor=181717) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&labelColor=181717)
+
 
 
 <!-- Tools -->
