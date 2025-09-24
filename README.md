@@ -1,12 +1,12 @@
-<!-- Profile README for irumvag -->
+<!-- Profile README for PAZZO123 -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋🏾,;+I'm+Patrick+:+),;+BSc+Computer+Engineering;+University+of+Rwanda,;+Cybersecurity+Enthusiast•);+Software+Developer•);+" alt="/" />
 </h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/specialbrocoli?style=social)](https://github.com/irumvag)
+[![GitHub followers](https://img.shields.io/github/followers/specialbrocoli?style=social)](https://github.com/PAZZO123)
 [![wakatime](https://wakatime.com/badge/user/208589f4-a926-45fc-91f5-b7089469382a.svg)](https://wakatime.com/@208589f4-a926-45fc-91f5-b7089469382a)
-![Profile views](https://komarev.com/ghpvc/?username=irumvag&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=PAZZO123&color=blueviolet)
 ## ⚙ **Languages-Frameworks-Tools**
 
 <br />
@@ -37,7 +37,7 @@ _Tools & platforms_
 
 <br />
 
-[![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/irumvag/) [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&labelColor=181717)](https://www.credly.com/users/webmaster) [![WhattsApp](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat)](https://www.linkedin.com/in/clarence-webmaster/) [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x)](https://x.com/silentwandarer) [![Discord](https://img.shields.io/badge/Dicord-5865F2?logo=discord&labelColor=181717)]() [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&labelColor=181717)](https://t.me/irumvag)
+[![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/PAZZO123/) [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&labelColor=181717)](https://www.credly.com/users/webmaster) [![WhattsApp](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat)](https://www.linkedin.com/in/clarence-webmaster/) [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x)](https://x.com/silentwandarer) [![Discord](https://img.shields.io/badge/Dicord-5865F2?logo=discord&labelColor=181717)]() [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&labelColor=181717)](https://t.me/PAZZO123)
 
 
 <!-- ********===Gh profile summary********=== -->
@@ -53,13 +53,13 @@ _Tools & platforms_
 
 <!-- GitHub streaks -->
 
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=irumvag&count_private=true&theme=react&border_radius=10" alt="streak stats" align="center"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PAZZO123&count_private=true&theme=react&border_radius=10" alt="streak stats" align="center"/>
 </div>
 
   <!-- Most used languages -->
 
 
-  <div align='center' style='margin-top: 1em;'><img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=irumvag&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weiGitHubt=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></div>
+  <div align='center' style='margin-top: 1em;'><img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PAZZO123&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weiGitHubt=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></div>
 
 
 <!-- Typewritter-2 -->
