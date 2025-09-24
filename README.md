@@ -14,7 +14,15 @@ Languages
 
 <!-- Languages -->
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&labelColor=181717) ![Javascript](https://img.shields.io/badge/Javascript_es6+-F7DF1E?logo=javascript&color=181717) ![MYSQL](https://img.shields.io/badge/Mysql-4479A1?logo=mysql&labelColor=181717) ![Postresql](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&labelColor=181717) ![CSS3](https://img.shields.io/badge/CSS3-663399?logo=css) ![Sass](https://img.shields.io/badge/SaaS-CC6699?logo=sass&labelColor=181717) ![C](https://img.shields.io/badge/-A8B9CC?logo=c&color=181717)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&labelColor=181717) 
+![Javascript](https://img.shields.io/badge/Javascript_es6+-F7DF1E?logo=javascript&color=181717) 
+![MYSQL](https://img.shields.io/badge/Mysql-4479A1?logo=mysql&labelColor=181717) 
+![Postresql](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&labelColor=181717) 
+![CSS3](https://img.shields.io/badge/CSS3-663399?logo=css&labelColor=181717) 
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&labelColor=181717) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&labelColor=181717) 
+![Java](https://img.shields.io/badge/Java-007396?logo=java&labelColor=181717)
+
 
 _Frameworks & libraries_
 
