@@ -5,7 +5,7 @@
 </h1>
 
 [![GitHub followers](https://img.shields.io/github/followers/PAZZO123?style=social)](https://github.com/PAZZO123)
-[![wakatime](https://wakatime.com/badge/user/YOUR-REAL-ID.svg)](https://wakatime.com/@YOUR-REAL-ID)
+
 ![Profile views](https://komarev.com/ghpvc/?username=PAZZO123&color=blueviolet)
 
 ## ⚙ **Languages-Frameworks-Tools**
