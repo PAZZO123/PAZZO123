@@ -50,7 +50,7 @@ _Tools & platforms_
 
 <br />
 
-[![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/PAZZO123/) [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&labelColor=181717)](https://www.credly.com/users/webmaster) [![WhattsApp](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat)](https://www.linkedin.com/in/clarence-webmaster/) [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x)](https://x.com/silentwandarer) [![Discord](https://img.shields.io/badge/Dicord-5865F2?logo=discord&labelColor=181717)]() [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&labelColor=181717)](https://t.me/PAZZO123)
+[![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/PAZZO123/) [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&labelColor=181717)](https://www.credly.com/users/mbabazi-patrick-straton/) [![WhattsApp](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat)](https://www.linkedin.com/in/patrick-straton-mbabazi-14594a388/) [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x)](https://x.com/MbabaziStraton) [![Discord](https://img.shields.io/badge/Dicord-5865F2?logo=discord&labelColor=181717)](https://discord.com/channels/1394562970368999435/1394562972801564785) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&labelColor=181717)](https://web.telegram.org/k/)
 
 
 <!-- ********===Gh profile summary********=== -->
