@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <strong>Patrick Straton Mbabazi</strong> • Computer Engineering • Software Development • Backend • Cybersecurity
+  <strong>Patrick Straton Mbabazi</strong> • Computer Engineering • Software Development • Backend • AI• Cybersecurity
 </p>
 
 <p align="center">
